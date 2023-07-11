@@ -17,7 +17,6 @@
         <header class="container">
             @yield('content')
         </header>
-        <a href="{{ route('home') }}">HOME</a>
     </div>
 </body>
 </html>
